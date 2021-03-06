@@ -9,6 +9,10 @@
 
 function sayHi(name) {
     console.log(name + " says Hiii !!!");
+    //return 10;
 }
 
-sayHi("Binod");
+// sayHi("Binod");
+
+let value = sayHi("steve");
+console.log(value); // will ask for return from sayHi 
